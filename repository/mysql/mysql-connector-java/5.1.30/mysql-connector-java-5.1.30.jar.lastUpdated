@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 19 22:59:58 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1482159598294
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:jar\:5.1.30 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar from central failed

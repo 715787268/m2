@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 19 22:59:58 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1482159598133
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:jar\:1.5.4 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/aspectj/aspectjweaver/1.5.4/aspectjweaver-1.5.4.jar from central failed
